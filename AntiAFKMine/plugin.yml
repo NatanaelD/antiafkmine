@@ -1,0 +1,6 @@
+name: AntiAFKMine
+main: AntiAFKMine\Main
+version: 1.0.0
+api: [5.0.0]
+author: Natanael
+description: Plugin Anti-AFK Mine pour PocketMine-MP 5
